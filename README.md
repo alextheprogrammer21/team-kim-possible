@@ -56,6 +56,6 @@ A travel website that lets users book flights. A nicer looking Expedia with pers
 - react-dropzone
 - date-fns
 
-# Tech Stack
+### Tech Stack
 
 Built using React, Material-UI, React-Router, Node, & Express.js.
