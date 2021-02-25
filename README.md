@@ -7,20 +7,30 @@ A travel website that lets users book flights. A nicer looking Expedia with pers
 !["Screenshot of Sign In"](https://raw.githubusercontent.com/alextheprogrammer21/team-kim-possible/dev/client/public/images/1.PNG)
 
 
+
+
 **Main Page**
 !["Screenshot of the main page"](https://raw.githubusercontent.com/alextheprogrammer21/team-kim-possible/dev/client/public/images/2.PNG)
+
+
 
 
 **User Page**
 !["Screenshot of user page"](https://raw.githubusercontent.com/alextheprogrammer21/team-kim-possible/dev/client/public/images/3.PNG)
 
 
+
+
 **Car Rental Page**
 !["Screenshot of car rental page"](https://raw.githubusercontent.com/alextheprogrammer21/team-kim-possible/dev/client/public/images/4.PNG)
 
 
+
+
 **Hotel Booking Page**
 !["Screenshot of hotel booking page"](https://raw.githubusercontent.com/alextheprogrammer21/team-kim-possible/dev/client/public/images/5.PNG)
+
+
 
 
 **Explore Page**
